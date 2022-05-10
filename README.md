@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dmsandipan
+- 👋 Hi, I’m @ML_Models
 - 👀 I’m interested in learning python,ML to a tee
 - 🌱 I’m currently learning guitar outside of Datascience
 - 💞️ I’m looking to collaborate on DNN,RNN and NLP
